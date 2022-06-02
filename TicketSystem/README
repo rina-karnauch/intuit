@@ -1,0 +1,14 @@
+Hello There!
+My name is Rina Karnauch and this is my Intuit internship assignment. Some points i'd like to mention:
+
+1. I had some problems with my postman requests through my Mac due to
+    unfamiliarity with the platform, so i didn't get to test my code.
+
+2. I'd like to change my implementation into Map structured Cinema System. I could map movies into locations and then get
+the information faster. Therefore my implementation which uses arrays mainly is slow, and it could be more efficent,
+but time and the bugs with postman didn't allow me to make that change.
+
+3. Also, it makes sense to add some object oriented structures into the project, meaning adding a Ticket class and
+ Movie Class, since everything in my assignment is string oriented its not ideal, its a place to grow from.
+
+Thanks for reading and i hope it made some sense.

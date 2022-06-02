@@ -1,0 +1,11 @@
+[
+  {
+    "barcode": "0",
+    "movie": "Bojack HorseMan",
+    "location": "Tel Aviv Cinema City",
+    "date": "22/06/2022",
+    "time": "23:45",
+    "paymentMethod": "card",
+    "validity": "true"
+  }
+]

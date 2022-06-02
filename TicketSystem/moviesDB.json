@@ -1,0 +1,51 @@
+[
+  {
+    "id": "ab45f",
+    "name": "Bojack HorseMan",
+    "location": "Tel Aviv Cinema City",
+    "date": "22/06/2022",
+    "time": "23:45"
+  },
+  {
+    "id": "ab45f",
+    "name": "Bojack HorseMan",
+    "location": "Jerusalem Cinema City",
+    "date": "21/06/2022",
+    "time": "10:00"
+  },
+  {
+    "id": "tf673",
+    "name": "Rick&Morty",
+    "location": "Tel Aviv Cinema City",
+    "date": "19/06/2022",
+    "time": "11:20"
+  },
+  {
+    "id": "tf673",
+    "name": "Rick&Morty",
+    "location": "Haifa Cinema City",
+    "date": "15/06/2022",
+    "time": "13:45"
+  },
+  {
+    "id": "s4rfg",
+    "name": "The Pianist",
+    "location": "Beer Sheva Cinema City",
+    "date": "23/06/2022",
+    "time": "15:00"
+  },
+  {
+    "id": "s4rfg",
+    "name": "The Pianist",
+    "location": "Netivot Hot Max",
+    "date": "22/06/2022",
+    "time": "16:00"
+  },
+  {
+    "id": "ab45f",
+    "name": "Bojack HorseMan",
+    "location": "Tel Aviv Cinema City",
+    "date": "22/06/2022",
+    "time": "14:00"
+  }
+]
